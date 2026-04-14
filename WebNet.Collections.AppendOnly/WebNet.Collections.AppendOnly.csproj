@@ -16,4 +16,8 @@
     <WarningLevel>3</WarningLevel>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Stellar.FastDB" Version="1.1.1" />
+  </ItemGroup>
+
 </Project>
